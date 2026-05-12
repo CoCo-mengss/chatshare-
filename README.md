@@ -15,7 +15,7 @@
 
   chatshare是2024年由caicats大佬创建，主要分为BIZ站和XYZ站。 [🌐详细介绍点此查看](https://h5ma.cn/feishu)
 
-  chatshare.ren是专业最官方的ChatShare激活码购买平台。支持日卡、月卡多种套餐，即买即用，7x24小时技术支持。订阅后解锁GPT+Gemini+Grok+Nano Banana+Claude+AI生成视频等国内外知名大模型，统统无限次使用，ChatShare激活码官方授权地址：chatshare.ren
+  chatshare.ren是专业最官方的ChatShare激活码购买平台。支持日卡、月卡多种套餐，即买即用，7x24小时技术支持。订阅后解锁GPT+Gemini+Grok+Nano Banana+Claude+AI生成视频等国内外知名大模型，统统无限次使用，ChatShare激活码官方授权地址：[chatshare.ren](https://chatshare.ren)
 
   chatshare激活码官方唯一获取地址：chatshare.ren（其余域名非官方）
   chatshare官网地址：chatshare.ren
@@ -53,8 +53,7 @@
   激活码购买地址：https://pay.ldxp.cn/shop/chatshare.biz  ​
   备用激活码购买地址：https://chatshare.ren   
 
-  
-  ```bash
+
   # 注册流程：
   1、：注册账号✨（有账号就忽略这步）
   在chatshare.biz（复制到浏览器打开）注册，这边用户名建议【直接注册成邮箱】。
@@ -85,10 +84,7 @@
   
   ### 3. 开始使用
   ```
-  # 验证claude是否可用
-  claude
-  # 开始使用，如
-  帮我创建一个React组件
+  # 选择一个专区即可开始使用
   ```
   
   ## 🎯 套餐价格
@@ -110,9 +106,9 @@
 
   ## 📞 联系支持
 
-  - 微信客服: jopanda_ (备注：gaccode)
-  - Telegram: https://t.me/easy_claude_code
-  - 官方网站: https://gaccode.store
+  - 微信客服: caicats (备注：chatshare)
+  - Telegram: [chatshare.ren](https://chatshare.ren)
+  - 官方网站: [chatshare.ren](https://chatshare.ren)
 
   ---
   专业团队 · 稳定服务 · 即买即用
